@@ -7,14 +7,12 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-possibly a corgi, most definitely not!  Either way there are really neat things I am up to!
-
+Hi I am Satviki,<br>
+I am a Masters student at UIUC. These are my skills:
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+Data Science and Machine Learning
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+Data Vizualisation
 </div>
